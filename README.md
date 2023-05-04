@@ -32,3 +32,10 @@
 <li>💬 Ping me about <strong>Next js,react,node js,prisma or postgresql</strong>.</li>
 <li>📖 Check out my <a href="https://yayi-portafolio.netlify.app/static/media/cv.f66032ad.pdf">resume</a>.</li>
 </ul>
+
+<h2>💻 Development stats</h2>
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yayidg22&hide_progress=true&theme=dark&show_icons=true)
+  
+
+
