@@ -30,7 +30,7 @@
 <li>✍️ Learning about <strong>React frameworks</strong>, <strong>UI architectures</strong>, and a bit of <strong>Back-end architectures</strong>.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/yayidg22?tab=repositories">Github</a>.</li>
 <li>💬 Ping me about <strong>Next js,react,web improvements and optimizations</strong>.</li>
-<li>📖 Check out my <a href="https://yayi-portafolio.netlify.app/static/media/cv.f66032ad.pdf">resume</a>.</li>
+<li>📖 Check out my <a href="https://yayi-portafolio.netlify.app/assets/Resume-5214129a.pdf">resume</a>.</li>
 </ul>
 
 <h2>💻 Development stats</h2>
