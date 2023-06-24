@@ -1,6 +1,6 @@
 <h2>Hey 👋, I'm <a href="https://yayi-portafolio.netlify.app/">Yayi</a></h2>
 
-<p>I'm a React Developer ✡️
+<p>I'm a React Developer
 
 <p><a href="https://yayi-portafolio.netlify.app/"><img src="https://img.shields.io/badge/yayiportafolio.netlify.app-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://yayi-portafolio.netlify.app/" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/hermy-diaz-9504011a2/"><img src="https://img.shields.io/badge/-@hermydiaz-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hermy-diaz-9504011a2/" alt="LinkedIn Badge"></a>
