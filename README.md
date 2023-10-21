@@ -37,8 +37,7 @@
 </ul>
 
 <h2>💻 Development stats</h2>
-
-![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yayidg22&hide_progress=true&theme=dark&show_icons=true)
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yayidg22&hide_progress=true&theme=dark&show_icons=true" />
   
 
 
