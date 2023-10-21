@@ -39,7 +39,7 @@
 <h2>💻 Development stats</h2>
   
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yayidg22&hide_progress=true&theme=dark&show_icons=true" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
 <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=yayidg22&theme=dark&show_icons=true" />
