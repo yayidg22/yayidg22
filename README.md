@@ -26,6 +26,8 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="jest" title="Jest" width="40" height="40" />
 <img src="https://d33wubrfki0l68.cloudfront.net/ea8e37a6a30e9c260a8936d95c579af4a2dd3df7/6ee7e/img/docusaurus_keytar.svg" alt="docusaurus" title="Docusaurus" width="40" height="40" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/storybook/storybook-original.svg" alt="storybook" title="Storybook" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain-wordmark.svg" alt="Docker" title="Docker" width="40" height="40" />
+
 </p>
 
 <h2>🌟 Relevant information</h2>
