@@ -1,8 +1,8 @@
-<h2>Hey 👋, I'm <a href="https://yayi-portafolio.netlify.app/">Yayi</a></h2>
+<h2>Hey 👋, I'm <a href="https://yayi.dev/">Yayi</a></h2>
 
 <p>Software developer proficient in JavaScript and TypeScript, specializing in building dynamic and scalable applications. 
 
-<p><a href="https://yayi-portafolio.netlify.app/"><img src="https://img.shields.io/badge/yayiportafolio.netlify.app-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://yayi-portafolio.netlify.app/" alt="Website Badge"></a>
+<p><a href="https://yayi.dev/"><img src="https://img.shields.io/badge/yayi.dev-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://yayi.dev/" alt="Website Badge"></a>
 <a href="https://www.linkedin.com/in/hermy-diaz-9504011a2/"><img src="https://img.shields.io/badge/-@hermydiaz-0077B5?style=flat-square&amp;labelColor=0077B5&amp;logo=LinkedIn&amp;link=https://www.linkedin.com/in/hermy-diaz-9504011a2/" alt="LinkedIn Badge"></a>
 <a href="https://open.spotify.com/user/31hmn4772a32vwsksjvsrpxtvmvm"><img src="https://img.shields.io/badge/-@Yayi-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/31hmn4772a32vwsksjvsrpxtvmvm" alt="Spotify Badge"></a></p>
 
