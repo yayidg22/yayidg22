@@ -34,7 +34,7 @@
 <li>👨‍💻 See the source code of my <a href="https://github.com/yayidg22?tab=repositories">public projects</a>.</li>
 <li>💬 Ping me about <strong>Next.js,React.js,Node.js (Express or Nest.js)</strong>.</li>
 <li>🔁 Learning a lot about DevOps practices, including containerization with Docker and CI/CD pipelines.</li>
-<li>📖 Check out my <a href="https://yayi-portafolio.netlify.app/assets/Resume-6f5a7340.pdf">resume</a>.</li>
+<li>📖 Check out my <a href="https://yayi.dev/Resume.pdf">resume</a>.</li>
 </ul>
 
 <h2>💻 Development stats</h2>
